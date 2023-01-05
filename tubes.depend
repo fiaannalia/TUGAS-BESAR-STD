@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1672624432 source:d:\kuliah semester 3\std\tubes fix bgt jadi\tubes\hospital.cpp
+	"hospital.h"
+
+1672624293 d:\kuliah semester 3\std\tubes fix bgt jadi\tubes\hospital.h
+	<iostream>
+
+1672624324 source:d:\kuliah semester 3\std\tubes fix bgt jadi\tubes\main.cpp
+	<iostream>
+	"hospital.h"
+	"menu.h"
+
+1672563257 d:\kuliah semester 3\std\tubes fix bgt jadi\tubes\menu.h
+	<iostream>
+
+1672563257 source:d:\kuliah semester 3\std\tubes fix bgt jadi\tubes\menu.cpp
+	"menu.h"
+
